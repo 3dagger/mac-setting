@@ -1,0 +1,22 @@
+# export.sh 가 내보내는 설정입니다. 홈 폴더($HOME) 기준 상대 경로이고, 폴더는 통째로 담습니다.
+# 공개 저장소입니다 — 키·토큰·계정·이 기기에만 있는 경로가 든 파일은 넣지 않습니다(README 의 "뺀 것").
+# 없는 파일은 건너뜁니다. 쓰지 않는 줄은 지웁니다.
+
+# 셸 — 기기마다 다른 값은 ~/.zshrc.local 에 두고 .zshrc 끝에서 읽습니다
+.zshrc
+.zprofile
+.zshenv
+
+# git — 이름·이메일은 ~/.gitconfig.local 에 두고 [include] 로 읽습니다
+.gitconfig
+.gitignore_global
+
+# ssh — config 만. 키·known_hosts 는 넣지 않습니다
+.ssh/config
+
+# Claude Code — 전역 설정·지시문
+.claude/settings.json
+.claude/CLAUDE.md
+
+# 앱
+.config/karabiner/karabiner.json
