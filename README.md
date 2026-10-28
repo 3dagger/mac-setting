@@ -1,9 +1,7 @@
 # mac-setting
 
 어느 Mac 에서나 같은 개인 설정(셸·git·ssh·Claude Code·앱 설정·Homebrew 목록·macOS 시스템 설정)을 쓰기 위한 저장소입니다.
-홈 폴더를 통째로 올리지 않고 `files.txt` 에 적은 것만 담습니다. [android-studio-setting](https://github.com/3dagger/android-studio-setting) 과 같은 방식입니다.
-
-Android Studio 설정은 여기가 아니라 `android-studio-setting` 이 맡습니다.
+홈 폴더를 통째로 올리지 않고 `files.txt` 에 적은 것만 담습니다.
 
 ## 담긴 설정
 

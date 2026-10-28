@@ -1,7 +1,7 @@
 # mac-setting 작업 규칙
 
 여러 Mac(집·회사)의 개인 설정을 이 저장소로 주고받는다. **공개 저장소다.**
-담는 범위는 `files.txt`, 동작은 README 의 "기기 사이 동기화"·"동작". Android Studio 설정은 `android-studio-setting` 저장소가 맡는다.
+담는 범위는 `files.txt`, 동작은 README 의 "기기 사이 동기화"·"동작".
 
 ## 원칙
 - 한국어로 답한다. 커밋 메시지에 AI 서명(Co-Authored-By 등)을 넣지 않는다.
